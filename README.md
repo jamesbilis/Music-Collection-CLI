@@ -1,7 +1,7 @@
 # Music Collection CLI (SQLite)
 
 A simple, fully interactive command‑line app to manage users and their song collections using SQLite for persistence.
-The original program logic is in `music_app.py` (ported from your submission).
+The original program logic is in `music_app.py`.
 
 ## Features
 - Create and switch users
